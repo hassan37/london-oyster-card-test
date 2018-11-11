@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="FARE_PRECISION_SCALE">2</entry>
+    <entry key="STATIONS_WITH_ZONES">Holborn:1|Earl's Court:1,2|Wimbledon:3|Hammersmith:2</entry>
+    <entry key="TUBE_JOURNEY_FARES">1:2.50|2:2.00|3:2.00|1,2:3.00|2,3:2.25|1,2,3:3.20</entry>
+    <entry key="BUS_JOURNEY_FARE">1.80</entry>
+
+</properties>
